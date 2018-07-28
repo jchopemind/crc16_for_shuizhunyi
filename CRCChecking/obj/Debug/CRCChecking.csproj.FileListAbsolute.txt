@@ -1,0 +1,9 @@
+C:\Users\jchopemind\Desktop\CRC_Tools\CRCChecking\CRCChecking\bin\Debug\CRCChecking.exe.config
+C:\Users\jchopemind\Desktop\CRC_Tools\CRCChecking\CRCChecking\bin\Debug\CRCChecking.exe
+C:\Users\jchopemind\Desktop\CRC_Tools\CRCChecking\CRCChecking\bin\Debug\CRCChecking.pdb
+C:\Users\jchopemind\Desktop\CRC_Tools\CRCChecking\CRCChecking\obj\Debug\CRCChecking.csprojResolveAssemblyReference.cache
+C:\Users\jchopemind\Desktop\CRC_Tools\CRCChecking\CRCChecking\obj\Debug\CRCChecking.Form1.resources
+C:\Users\jchopemind\Desktop\CRC_Tools\CRCChecking\CRCChecking\obj\Debug\CRCChecking.Properties.Resources.resources
+C:\Users\jchopemind\Desktop\CRC_Tools\CRCChecking\CRCChecking\obj\Debug\CRCChecking.csproj.GenerateResource.Cache
+C:\Users\jchopemind\Desktop\CRC_Tools\CRCChecking\CRCChecking\obj\Debug\CRCChecking.exe
+C:\Users\jchopemind\Desktop\CRC_Tools\CRCChecking\CRCChecking\obj\Debug\CRCChecking.pdb
